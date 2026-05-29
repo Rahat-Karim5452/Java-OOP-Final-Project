@@ -1,9 +1,9 @@
-1.	Project Title
+**1.	Project Title:**
 Hospital Management System Using Object-Oriented Programming in Java
-2.	Introduction
+**2.	Introduction**
 The Hospital Management System is a software application designed to efficiently manage and streamline the operations of a hospital.In modern healthcare environments,handling patient records,doctor information, prescriptions, billing, and reports manually can lead to inefficiencies, data inconsistency, and increased chances of human error.
 To address these challenges, this project presents a computerized Hospital Management System developed using the Java programming language. The system aims to automate key hospital processes, ensuring better organization, faster data retrieval, and improved accuracy. The system is designed based on the principles of Object-Oriented Programming (OOP), namely Encapsulation, Inheritance, Abstraction, and Polymorphism. These principles enhance code modularity, reusability, scalability, and maintainability, making the system more structured and closer to real-world applications.
-3.	Objectives
+**3.	Objectives**
 •	To design a simple and efficient hospital management system.
 •	To store and manage patient data securely.
 •	To demonstrate Java OOP concepts in a real-world application.
@@ -21,7 +21,7 @@ To address these challenges, this project presents a computerized Hospital Manag
 •	Bill
 •	Main(HospitalSystem)
  
-6.	Discussion
+**6.	Discussion**
 The proposed Hospital Management System is a console based application developed in Java that simulates essential hospital operations. The system is designed using multiple interrelated classes, each representing real-world entities such as patients, doctors, receptionists, cashiers, prescriptions, and medical reports.
 The system effectively demonstrates the four fundamental concepts of Object-Oriented Programming:
 •	Encapsulation is implemented in the PatientData class, where sensitive patient information such as name, NIC, sickness, and phone number are declared as private variables. Access to these data members is controlled through public methods, ensuring data security and protection.
